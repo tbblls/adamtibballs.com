@@ -2,11 +2,10 @@
   "name": "adamtibballs.com",
   "version": "1.0.0",
   "description": "My Website",
-  "main": "gulpfile.js",
   "dependencies": {
   },
   "devDependencies": {
-    "gulp": "^3.9.0"
+
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
